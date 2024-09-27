@@ -11,3 +11,39 @@ body{
     width: 100%;
     box-sizing: border-box;
 }
+
+.menu{
+    width:1000px;
+    align-items: space-between;
+}
+
+ul li{
+    display:inline-block;
+    margin:20px;
+    margin-right:0px;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+button{
+    align-items:flex-end;
+    color:#05a88d;
+    background:#FFF;
+    border:none;
+    font-size:13pt;
+    margin:20px;
+    margin-left:0px;
+    float:right;
+}
+.menu__logo{
+    color:#05a88d;
+    margin-left: 20%;
+    width:100px;
+}
+.menu__singup{
+    border:1px solid;
+    border-color:#05a88d;
+    padding:4;
+    margin:16
+}

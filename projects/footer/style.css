@@ -15,7 +15,31 @@ html,body{
 	flex: 1 0 auto;
 }
 .footer{
+    color:#FFF;
     flex: 0 0 auto;
+    background:#05A88D;
+    padding:10px
 }
-
-
+.footer_top{
+display:flex;
+border-bottom: 3px solid #FFFFFF;
+}
+.footer_right{
+    width: 300px;
+    margin: 0 0 0 auto;
+    text-align:right;
+}
+a{
+    color: #F1E67D;
+    text-decoration: none
+}
+.address{
+font-size:8pt;
+    color:rgba(255,255,255,0.5)
+}
+.text{
+    color:rgba(255,255,255,0.5);
+}    
+.footer_bottom{
+    color:rgba(255,255,255,0.5);
+}
