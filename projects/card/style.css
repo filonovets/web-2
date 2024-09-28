@@ -36,6 +36,10 @@ padding-bottom: 0.75em;
 color:#fff;
 background: #2797B2;
 border-radius: 30px;
-padding: 1px;
+padding: 3px;
+padding-left:15px;
+padding-right:15px;
 border:0 none;
+margin:10px;
+margin-left:5px;
 }
